@@ -1,0 +1,715 @@
+series_title,released_year,genre,imdb_rating,meta_score,gross,imdb_category
+The Shawshank Redemption,1994,Drama,9.3,80.0,"28,341,469",Excellent
+The Godfather,1972,"Crime, Drama",9.2,100.0,"134,966,411",Excellent
+The Dark Knight,2008,"Action, Crime, Drama",9.0,84.0,"534,858,444",Excellent
+The Godfather: Part II,1974,"Crime, Drama",9.0,90.0,"57,300,000",Excellent
+12 Angry Men,1957,"Crime, Drama",9.0,96.0,"4,360,000",Excellent
+The Lord of the Rings: The Return of the King,2003,"Action, Adventure, Drama",8.9,94.0,"377,845,905",Excellent
+Pulp Fiction,1994,"Crime, Drama",8.9,94.0,"107,928,762",Excellent
+Schindler's List,1993,"Biography, Drama, History",8.9,94.0,"96,898,818",Excellent
+Inception,2010,"Action, Adventure, Sci-Fi",8.8,74.0,"292,576,195",Excellent
+Fight Club,1999,Drama,8.8,66.0,"37,030,102",Excellent
+The Lord of the Rings: The Fellowship of the Ring,2001,"Action, Adventure, Drama",8.8,92.0,"315,544,750",Excellent
+Forrest Gump,1994,"Drama, Romance",8.8,82.0,"330,252,182",Excellent
+"Il buono, il brutto, il cattivo",1966,Western,8.8,90.0,"6,100,000",Excellent
+The Lord of the Rings: The Two Towers,2002,"Action, Adventure, Drama",8.7,87.0,"342,551,365",Excellent
+The Matrix,1999,"Action, Sci-Fi",8.7,73.0,"171,479,930",Excellent
+Goodfellas,1990,"Biography, Crime, Drama",8.7,90.0,"46,836,394",Excellent
+Star Wars: Episode V - The Empire Strikes Back,1980,"Action, Adventure, Fantasy",8.7,82.0,"290,475,067",Excellent
+One Flew Over the Cuckoo's Nest,1975,Drama,8.7,83.0,"112,000,000",Excellent
+Gisaengchung,2019,"Comedy, Drama, Thriller",8.6,96.0,"53,367,844",Excellent
+Interstellar,2014,"Adventure, Drama, Sci-Fi",8.6,74.0,"188,020,017",Excellent
+Cidade de Deus,2002,"Crime, Drama",8.6,79.0,"7,563,397",Excellent
+Sen to Chihiro no kamikakushi,2001,"Animation, Adventure, Family",8.6,96.0,"10,055,859",Excellent
+Saving Private Ryan,1998,"Drama, War",8.6,91.0,"216,540,909",Excellent
+The Green Mile,1999,"Crime, Drama, Fantasy",8.6,61.0,"136,801,374",Excellent
+La vita è bella,1997,"Comedy, Drama, Romance",8.6,59.0,"57,598,247",Excellent
+Se7en,1995,"Crime, Drama, Mystery",8.6,65.0,"100,125,643",Excellent
+The Silence of the Lambs,1991,"Crime, Drama, Thriller",8.6,85.0,"130,742,922",Excellent
+Star Wars,1977,"Action, Adventure, Fantasy",8.6,90.0,"322,740,140",Excellent
+Shichinin no samurai,1954,"Action, Adventure, Drama",8.6,98.0,"269,061",Excellent
+Joker,2019,"Crime, Drama, Thriller",8.5,59.0,"335,451,311",Good
+Whiplash,2014,"Drama, Music",8.5,88.0,"13,092,000",Good
+The Intouchables,2011,"Biography, Comedy, Drama",8.5,57.0,"13,182,281",Good
+The Prestige,2006,"Drama, Mystery, Sci-Fi",8.5,66.0,"53,089,891",Good
+The Departed,2006,"Crime, Drama, Thriller",8.5,85.0,"132,384,315",Good
+The Pianist,2002,"Biography, Drama, Music",8.5,85.0,"32,572,577",Good
+Gladiator,2000,"Action, Adventure, Drama",8.5,67.0,"187,705,427",Good
+American History X,1998,Drama,8.5,62.0,"6,719,864",Good
+The Usual Suspects,1995,"Crime, Mystery, Thriller",8.5,77.0,"23,341,568",Good
+Léon,1994,"Action, Crime, Drama",8.5,64.0,"19,501,238",Good
+The Lion King,1994,"Animation, Adventure, Drama",8.5,88.0,"422,783,777",Good
+Terminator 2: Judgment Day,1991,"Action, Sci-Fi",8.5,75.0,"204,843,350",Good
+Nuovo Cinema Paradiso,1988,"Drama, Romance",8.5,80.0,"11,990,401",Good
+Back to the Future,1985,"Adventure, Comedy, Sci-Fi",8.5,87.0,"210,609,762",Good
+Once Upon a Time in the West,1968,Western,8.5,80.0,"5,321,508",Good
+Psycho,1960,"Horror, Mystery, Thriller",8.5,97.0,"32,000,000",Good
+Casablanca,1942,"Drama, Romance, War",8.5,100.0,"1,024,560",Good
+Modern Times,1936,"Comedy, Drama, Family",8.5,96.0,"163,245",Good
+City Lights,1931,"Comedy, Drama, Romance",8.5,99.0,"19,181",Good
+Capharnaüm,2018,Drama,8.4,75.0,"1,661,096",Good
+Kimi no na wa.,2016,"Animation, Drama, Fantasy",8.4,79.0,"5,017,246",Good
+Spider-Man: Into the Spider-Verse,2018,"Animation, Action, Adventure",8.4,87.0,"190,241,310",Good
+Avengers: Endgame,2019,"Action, Adventure, Drama",8.4,78.0,"858,373,000",Good
+Avengers: Infinity War,2018,"Action, Adventure, Sci-Fi",8.4,68.0,"678,815,482",Good
+Coco,2017,"Animation, Adventure, Family",8.4,81.0,"209,726,015",Good
+Django Unchained,2012,"Drama, Western",8.4,81.0,"162,805,434",Good
+The Dark Knight Rises,2012,"Action, Adventure",8.4,78.0,"448,139,099",Good
+3 Idiots,2009,"Comedy, Drama",8.4,67.0,"6,532,908",Good
+WALL·E,2008,"Animation, Adventure, Family",8.4,95.0,"223,808,164",Good
+The Lives of Others,2006,"Drama, Mystery, Thriller",8.4,89.0,"11,286,112",Good
+Oldeuboi,2003,"Action, Drama, Mystery",8.4,77.0,"707,481",Good
+Memento,2000,"Mystery, Thriller",8.4,80.0,"25,544,867",Good
+Mononoke-hime,1997,"Animation, Action, Adventure",8.4,76.0,"2,375,308",Good
+Raiders of the Lost Ark,1981,"Action, Adventure",8.4,85.0,"248,159,971",Good
+The Shining,1980,"Drama, Horror",8.4,66.0,"44,017,374",Good
+Apocalypse Now,1979,"Drama, Mystery, War",8.4,94.0,"83,471,511",Good
+Alien,1979,"Horror, Sci-Fi",8.4,89.0,"78,900,000",Good
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy,8.4,97.0,"275,902",Good
+Rear Window,1954,"Mystery, Thriller",8.4,100.0,"36,764,313",Good
+1917,2019,"Drama, Thriller, War",8.3,78.0,"159,227,644",Good
+Jagten,2012,Drama,8.3,77.0,"687,185",Good
+Jodaeiye Nader az Simin,2011,Drama,8.3,95.0,"7,098,492",Good
+Incendies,2010,"Drama, Mystery, War",8.3,80.0,"6,857,096",Good
+Inglourious Basterds,2009,"Adventure, Drama, War",8.3,69.0,"120,540,719",Good
+Eternal Sunshine of the Spotless Mind,2004,"Drama, Romance, Sci-Fi",8.3,89.0,"34,400,301",Good
+Amélie,2001,"Comedy, Romance",8.3,69.0,"33,225,499",Good
+Snatch,2000,"Comedy, Crime",8.3,55.0,"30,328,156",Good
+Requiem for a Dream,2000,Drama,8.3,68.0,"3,635,482",Good
+American Beauty,1999,Drama,8.3,84.0,"130,096,601",Good
+Good Will Hunting,1997,"Drama, Romance",8.3,70.0,"138,433,435",Good
+Bacheha-Ye aseman,1997,"Drama, Family, Sport",8.3,77.0,"933,933",Good
+Toy Story,1995,"Animation, Adventure, Comedy",8.3,95.0,"191,796,233",Good
+Braveheart,1995,"Biography, Drama, History",8.3,68.0,"75,600,000",Good
+Reservoir Dogs,1992,"Crime, Drama, Thriller",8.3,79.0,"2,832,029",Good
+Full Metal Jacket,1987,"Drama, War",8.3,76.0,"46,357,676",Good
+Aliens,1986,"Action, Adventure, Sci-Fi",8.3,84.0,"85,160,248",Good
+Amadeus,1984,"Biography, Drama, History",8.3,88.0,"51,973,029",Good
+Scarface,1983,"Crime, Drama",8.3,65.0,"45,598,982",Good
+Star Wars: Episode VI - Return of the Jedi,1983,"Action, Adventure, Fantasy",8.3,58.0,"309,125,409",Good
+Das Boot,1981,"Adventure, Drama, Thriller",8.3,86.0,"11,487,676",Good
+Taxi Driver,1976,"Crime, Drama",8.3,94.0,"28,262,574",Good
+The Sting,1973,"Comedy, Crime, Drama",8.3,83.0,"159,600,000",Good
+A Clockwork Orange,1971,"Crime, Drama, Sci-Fi",8.3,77.0,"6,207,725",Good
+2001: A Space Odyssey,1968,"Adventure, Sci-Fi",8.3,84.0,"56,954,992",Good
+Per qualche dollaro in più,1965,Western,8.3,74.0,"15,000,000",Good
+Lawrence of Arabia,1962,"Adventure, Biography, Drama",8.3,100.0,"44,824,144",Good
+The Apartment,1960,"Comedy, Drama, Romance",8.3,94.0,"18,600,000",Good
+North by Northwest,1959,"Adventure, Mystery, Thriller",8.3,98.0,"13,275,000",Good
+Vertigo,1958,"Mystery, Romance, Thriller",8.3,100.0,"3,200,000",Good
+Singin' in the Rain,1952,"Comedy, Musical, Romance",8.3,99.0,"8,819,028",Good
+Double Indemnity,1944,"Crime, Drama, Film-Noir",8.3,95.0,"5,720,000",Good
+Citizen Kane,1941,"Drama, Mystery",8.3,100.0,"1,585,634",Good
+Green Book,2018,"Biography, Comedy, Drama",8.2,69.0,"85,080,171",Good
+"Three Billboards Outside Ebbing, Missouri",2017,"Comedy, Crime, Drama",8.2,88.0,"54,513,740",Good
+El secreto de sus ojos,2009,"Drama, Mystery, Romance",8.2,80.0,"6,391,436",Good
+Warrior,2011,"Action, Drama, Sport",8.2,71.0,"13,657,115",Good
+Shutter Island,2010,"Mystery, Thriller",8.2,63.0,"128,012,934",Good
+Up,2009,"Animation, Adventure, Comedy",8.2,88.0,"293,004,164",Good
+The Wolf of Wall Street,2013,"Biography, Crime, Drama",8.2,75.0,"116,900,694",Good
+Chak De! India,2007,"Drama, Family, Sport",8.2,68.0,"1,113,541",Good
+There Will Be Blood,2007,Drama,8.2,93.0,"40,222,514",Good
+Pan's Labyrinth,2006,"Drama, Fantasy, War",8.2,98.0,"37,634,615",Good
+Toy Story 3,2010,"Animation, Adventure, Comedy",8.2,92.0,"415,004,880",Good
+V for Vendetta,2005,"Action, Drama, Sci-Fi",8.2,62.0,"70,511,035",Good
+Batman Begins,2005,"Action, Adventure",8.2,70.0,"206,852,432",Good
+Der Untergang,2004,"Biography, Drama, History",8.2,82.0,"5,509,040",Good
+Hauru no ugoku shiro,2004,"Animation, Adventure, Family",8.2,80.0,"4,711,096",Good
+A Beautiful Mind,2001,"Biography, Drama",8.2,72.0,"170,742,341",Good
+"Lock, Stock and Two Smoking Barrels",1998,"Action, Comedy, Crime",8.2,66.0,"3,897,569",Good
+L.A. Confidential,1997,"Crime, Drama, Mystery",8.2,90.0,"64,616,940",Good
+Heat,1995,"Crime, Drama, Thriller",8.2,76.0,"67,436,818",Good
+Casino,1995,"Crime, Drama",8.2,73.0,"42,438,300",Good
+Unforgiven,1992,"Drama, Western",8.2,85.0,"101,157,447",Good
+Indiana Jones and the Last Crusade,1989,"Action, Adventure",8.2,65.0,"197,171,806",Good
+Tonari no Totoro,1988,"Animation, Family, Fantasy",8.2,86.0,"1,105,564",Good
+Die Hard,1988,"Action, Thriller",8.2,72.0,"83,008,852",Good
+Ran,1985,"Action, Drama, War",8.2,96.0,"4,135,750",Good
+Raging Bull,1980,"Biography, Drama, Sport",8.2,89.0,"23,383,987",Good
+Monty Python and the Holy Grail,1975,"Adventure, Comedy, Fantasy",8.2,91.0,"1,229,197",Good
+The Great Escape,1963,"Adventure, Drama, History",8.2,86.0,"12,100,000",Good
+Some Like It Hot,1959,"Comedy, Music, Romance",8.2,98.0,"25,000,000",Good
+Dial M for Murder,1954,"Crime, Thriller",8.2,75.0,"12,562",Good
+All About Eve,1950,Drama,8.2,98.0,"10,177",Good
+The Treasure of the Sierra Madre,1948,"Adventure, Drama, Western",8.2,98.0,"5,014,000",Good
+Portrait de la jeune fille en feu,2019,"Drama, Romance",8.1,95.0,"3,759,854",Good
+Ah-ga-ssi,2016,"Drama, Romance, Thriller",8.1,84.0,"2,006,788",Good
+Mommy,2014,Drama,8.1,74.0,"3,492,754",Good
+Logan,2017,"Action, Drama, Sci-Fi",8.1,77.0,"226,277,068",Good
+Room,2015,"Drama, Thriller",8.1,86.0,"14,677,674",Good
+Relatos salvajes,2014,"Comedy, Drama, Thriller",8.1,77.0,"3,107,072",Good
+The Grand Budapest Hotel,2014,"Adventure, Comedy, Crime",8.1,88.0,"59,100,318",Good
+Gone Girl,2014,"Drama, Mystery, Thriller",8.1,79.0,"167,767,189",Good
+Hacksaw Ridge,2016,"Biography, Drama, History",8.1,71.0,"67,209,615",Good
+Inside Out,2015,"Animation, Adventure, Comedy",8.1,94.0,"356,461,711",Good
+12 Years a Slave,2013,"Biography, Drama, History",8.1,96.0,"56,671,993",Good
+Rush,2013,"Action, Biography, Drama",8.1,74.0,"26,947,624",Good
+Ford v Ferrari,2019,"Action, Biography, Drama",8.1,81.0,"117,624,028",Good
+Spotlight,2015,"Biography, Crime, Drama",8.1,93.0,"45,055,776",Good
+Song of the Sea,2014,"Animation, Adventure, Drama",8.1,85.0,"857,524",Good
+Prisoners,2013,"Crime, Drama, Mystery",8.1,70.0,"61,002,302",Good
+Mad Max: Fury Road,2015,"Action, Adventure, Sci-Fi",8.1,90.0,"154,058,340",Good
+Gran Torino,2008,Drama,8.1,72.0,"148,095,302",Good
+Harry Potter and the Deathly Hallows: Part 2,2011,"Adventure, Drama, Fantasy",8.1,85.0,"381,011,219",Good
+Okuribito,2008,"Drama, Music",8.1,68.0,"1,498,210",Good
+How to Train Your Dragon,2010,"Animation, Action, Adventure",8.1,75.0,"217,581,231",Good
+Into the Wild,2007,"Adventure, Biography, Drama",8.1,73.0,"18,354,356",Good
+No Country for Old Men,2007,"Crime, Drama, Thriller",8.1,91.0,"74,283,625",Good
+Million Dollar Baby,2004,"Drama, Sport",8.1,86.0,"100,492,203",Good
+Hotel Rwanda,2004,"Biography, Drama, History",8.1,79.0,"23,530,892",Good
+Taegukgi hwinalrimyeo,2004,"Action, Drama, War",8.1,64.0,"1,111,061",Good
+Before Sunset,2004,"Drama, Romance",8.1,90.0,"5,820,649",Good
+Salinui chueok,2003,"Crime, Drama, Mystery",8.1,82.0,"14,131",Good
+Kill Bill: Vol. 1,2003,"Action, Crime, Drama",8.1,69.0,"70,099,045",Good
+Finding Nemo,2003,"Animation, Adventure, Comedy",8.1,90.0,"380,843,261",Good
+Catch Me If You Can,2002,"Biography, Crime, Drama",8.1,75.0,"164,615,351",Good
+Amores perros,2000,"Drama, Thriller",8.1,83.0,"5,383,834",Good
+"Monsters, Inc.",2001,"Animation, Adventure, Comedy",8.1,79.0,"289,916,256",Good
+Lagaan: Once Upon a Time in India,2001,"Adventure, Drama, Musical",8.1,84.0,"70,147",Good
+The Sixth Sense,1999,"Drama, Mystery, Thriller",8.1,64.0,"293,506,292",Good
+La leggenda del pianista sull'oceano,1998,"Drama, Music, Romance",8.1,58.0,"259,127",Good
+The Truman Show,1998,"Comedy, Drama",8.1,90.0,"125,618,201",Good
+"Crna macka, beli macor",1998,"Comedy, Crime, Romance",8.1,73.0,"348,660",Good
+The Big Lebowski,1998,"Comedy, Crime, Sport",8.1,71.0,"17,498,804",Good
+Fa yeung nin wah,2000,"Drama, Romance",8.1,85.0,"2,734,044",Good
+Trainspotting,1996,Drama,8.1,83.0,"16,501,785",Good
+Fargo,1996,"Crime, Drama, Thriller",8.1,85.0,"24,611,975",Good
+Before Sunrise,1995,"Drama, Romance",8.1,77.0,"5,535,405",Good
+Trois couleurs: Rouge,1994,"Drama, Mystery, Romance",8.1,100.0,"4,043,686",Good
+Chung Hing sam lam,1994,"Comedy, Crime, Drama",8.1,77.0,"600,200",Good
+Jurassic Park,1993,"Action, Adventure, Sci-Fi",8.1,68.0,"402,453,882",Good
+In the Name of the Father,1993,"Biography, Crime, Drama",8.1,84.0,"25,010,410",Good
+Dead Poets Society,1989,"Comedy, Drama",8.1,79.0,"95,860,116",Good
+Stand by Me,1986,"Adventure, Drama",8.1,75.0,"52,287,414",Good
+Platoon,1986,"Drama, War",8.1,92.0,"138,530,565",Good
+"Paris, Texas",1984,Drama,8.1,78.0,"2,181,987",Good
+Kaze no tani no Naushika,1984,"Animation, Adventure, Fantasy",8.1,86.0,"495,770",Good
+The Thing,1982,"Horror, Mystery, Sci-Fi",8.1,57.0,"13,782,838",Good
+Pink Floyd: The Wall,1982,"Drama, Fantasy, Music",8.1,47.0,"22,244,207",Good
+Fanny och Alexander,1982,Drama,8.1,100.0,"4,971,340",Good
+Blade Runner,1982,"Action, Sci-Fi, Thriller",8.1,84.0,"32,868,943",Good
+Life of Brian,1979,Comedy,8.1,77.0,"20,045,115",Good
+The Deer Hunter,1978,"Drama, War",8.1,86.0,"48,979,328",Good
+Rocky,1976,"Drama, Sport",8.1,70.0,"117,235,247",Good
+Chinatown,1974,"Drama, Mystery, Thriller",8.1,92.0,"29,000,000",Good
+Paper Moon,1973,"Comedy, Crime, Drama",8.1,77.0,"30,933,743",Good
+Cool Hand Luke,1967,"Crime, Drama",8.1,92.0,"16,217,773",Good
+What Ever Happened to Baby Jane?,1962,"Drama, Horror, Thriller",8.1,75.0,"4,050,000",Good
+Ben-Hur,1959,"Adventure, Drama, History",8.1,90.0,"74,700,000",Good
+The Bridge on the River Kwai,1957,"Adventure, Drama, War",8.1,87.0,"44,908,000",Good
+On the Waterfront,1954,"Crime, Drama, Thriller",8.1,91.0,"9,600,000",Good
+Ace in the Hole,1951,"Drama, Film-Noir",8.1,72.0,"3,969,893",Good
+The Third Man,1949,"Film-Noir, Mystery, Thriller",8.1,97.0,"449,191",Good
+Rebecca,1940,"Drama, Mystery, Romance",8.1,86.0,"4,360,000",Good
+Mr. Smith Goes to Washington,1939,"Comedy, Drama",8.1,73.0,"9,600,000",Good
+Gone with the Wind,1939,"Drama, History, Romance",8.1,97.0,"198,676,459",Good
+It Happened One Night,1934,"Comedy, Romance",8.1,87.0,"4,360,000",Good
+La La Land,2016,"Comedy, Drama, Music",8.0,94.0,"151,101,803",Good
+Lion,2016,"Biography, Drama",8.0,69.0,"51,739,495",Good
+The Martian,2015,"Adventure, Drama, Sci-Fi",8.0,80.0,"228,433,663",Good
+Zootopia,2016,"Animation, Adventure, Comedy",8.0,78.0,"341,268,248",Good
+Kaguyahime no monogatari,2013,"Animation, Adventure, Drama",8.0,89.0,"1,506,975",Good
+Wonder,2017,"Drama, Family",8.0,66.0,"132,422,809",Good
+Gully Boy,2019,"Drama, Music, Romance",8.0,65.0,"5,566,534",Good
+Short Term 12,2013,Drama,8.0,82.0,"1,010,414",Good
+Serbuan maut 2: Berandal,2014,"Action, Crime, Thriller",8.0,71.0,"2,625,803",Good
+The Imitation Game,2014,"Biography, Drama, Thriller",8.0,73.0,"91,125,683",Good
+Guardians of the Galaxy,2014,"Action, Adventure, Comedy",8.0,76.0,"333,176,600",Good
+Blade Runner 2049,2017,"Action, Drama, Mystery",8.0,81.0,"92,054,159",Good
+Her,2013,"Drama, Romance, Sci-Fi",8.0,90.0,"25,568,251",Good
+Bohemian Rhapsody,2018,"Biography, Drama, Music",8.0,49.0,"216,428,042",Good
+The Revenant,2015,"Action, Adventure, Drama",8.0,76.0,"183,637,894",Good
+The Perks of Being a Wallflower,2012,"Drama, Romance",8.0,67.0,"17,738,570",Good
+The King's Speech,2010,"Biography, Drama, History",8.0,88.0,"138,797,449",Good
+The Help,2011,Drama,8.0,62.0,"169,708,112",Good
+Deadpool,2016,"Action, Adventure, Comedy",8.0,65.0,"363,070,709",Good
+Darbareye Elly,2009,"Drama, Mystery",8.0,87.0,"106,662",Good
+My Name Is Khan,2010,Drama,8.0,50.0,"4,018,695",Good
+Slumdog Millionaire,2008,"Drama, Romance",8.0,84.0,"141,319,928",Good
+Black Swan,2010,"Drama, Thriller",8.0,79.0,"106,954,678",Good
+Tropa de Elite,2007,"Action, Crime, Drama",8.0,33.0,"8,060",Good
+The Avengers,2012,"Action, Adventure, Sci-Fi",8.0,69.0,"623,279,547",Good
+Persepolis,2007,"Animation, Biography, Drama",8.0,90.0,"4,445,756",Good
+Dallas Buyers Club,2013,"Biography, Drama",8.0,80.0,"27,298,285",Good
+The Pursuit of Happyness,2006,"Biography, Drama",8.0,64.0,"163,566,459",Good
+Blood Diamond,2006,"Adventure, Drama, Thriller",8.0,64.0,"57,366,262",Good
+The Bourne Ultimatum,2007,"Action, Mystery, Thriller",8.0,85.0,"227,471,070",Good
+Bin-jip,2004,"Crime, Drama, Romance",8.0,72.0,"238,507",Good
+Sin City,2005,"Crime, Thriller",8.0,74.0,"74,103,820",Good
+Le scaphandre et le papillon,2007,"Biography, Drama",8.0,92.0,"5,990,075",Good
+Ratatouille,2007,"Animation, Adventure, Comedy",8.0,96.0,"206,445,654",Good
+Casino Royale,2006,"Action, Adventure, Thriller",8.0,80.0,"167,445,960",Good
+Kill Bill: Vol. 2,2004,"Action, Crime, Thriller",8.0,83.0,"66,208,183",Good
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,2003,"Drama, Romance",8.0,85.0,"2,380,788",Good
+Mar adentro,2014,"Biography, Drama",8.0,74.0,"2,086,345",Good
+Cinderella Man,2005,"Biography, Drama, History",8.0,69.0,"61,649,911",Good
+Kal Ho Naa Ho,2003,"Comedy, Drama, Musical",8.0,54.0,"1,787,378",Good
+Mou gaan dou,2002,"Action, Crime, Drama",8.0,75.0,"169,659",Good
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,"Action, Adventure, Fantasy",8.0,63.0,"305,413,918",Good
+Big Fish,2003,"Adventure, Drama, Fantasy",8.0,58.0,"66,257,002",Good
+The Incredibles,2004,"Animation, Action, Adventure",8.0,90.0,"261,441,092",Good
+Dogville,2003,"Crime, Drama",8.0,60.0,"1,530,386",Good
+Donnie Darko,2001,"Drama, Mystery, Sci-Fi",8.0,88.0,"1,480,006",Good
+Magnolia,1999,Drama,8.0,77.0,"22,455,976",Good
+Dancer in the Dark,2000,"Crime, Drama, Musical",8.0,61.0,"4,184,036",Good
+The Straight Story,1999,"Biography, Drama",8.0,86.0,"6,203,044",Good
+Festen,1998,Drama,8.0,82.0,"1,647,780",Good
+Central do Brasil,1998,Drama,8.0,80.0,"5,595,428",Good
+The Iron Giant,1999,"Animation, Action, Adventure",8.0,85.0,"23,159,305",Good
+Sling Blade,1996,Drama,8.0,84.0,"24,475,416",Good
+Secrets & Lies,1996,"Comedy, Drama",8.0,91.0,"13,417,292",Good
+Twelve Monkeys,1995,"Mystery, Sci-Fi, Thriller",8.0,74.0,"57,141,459",Good
+Kôkaku Kidôtai,1995,"Animation, Action, Crime",8.0,76.0,"515,905",Good
+The Nightmare Before Christmas,1993,"Animation, Family, Fantasy",8.0,82.0,"75,082,668",Good
+Groundhog Day,1993,"Comedy, Fantasy, Romance",8.0,72.0,"70,906,973",Good
+Bound by Honor,1993,"Crime, Drama",8.0,47.0,"4,496,583",Good
+Scent of a Woman,1992,Drama,8.0,59.0,"63,895,607",Good
+Aladdin,1992,"Animation, Adventure, Comedy",8.0,86.0,"217,350,219",Good
+JFK,1991,"Drama, History, Thriller",8.0,72.0,"70,405,498",Good
+Beauty and the Beast,1991,"Animation, Family, Fantasy",8.0,95.0,"218,967,620",Good
+Dances with Wolves,1990,"Adventure, Drama, Western",8.0,72.0,"184,208,848",Good
+Do the Right Thing,1989,"Comedy, Drama",8.0,93.0,"27,545,445",Good
+Rain Man,1988,Drama,8.0,65.0,"178,800,000",Good
+The Princess Bride,1987,"Adventure, Family, Fantasy",8.0,77.0,"30,857,814",Good
+Der Himmel über Berlin,1987,"Drama, Fantasy, Romance",8.0,79.0,"3,333,969",Good
+Au revoir les enfants,1987,"Drama, War",8.0,88.0,"4,542,825",Good
+The Terminator,1984,"Action, Sci-Fi",8.0,84.0,"38,400,000",Good
+Gandhi,1982,"Biography, Drama, History",8.0,79.0,"52,767,889",Good
+Being There,1979,"Comedy, Drama",8.0,83.0,"30,177,511",Good
+Annie Hall,1977,"Comedy, Romance",8.0,92.0,"39,200,000",Good
+Jaws,1975,"Adventure, Thriller",8.0,87.0,"260,000,000",Good
+Dog Day Afternoon,1975,"Biography, Crime, Drama",8.0,86.0,"50,000,000",Good
+Young Frankenstein,1974,Comedy,8.0,80.0,"86,300,000",Good
+Papillon,1973,"Biography, Crime, Drama",8.0,58.0,"53,267,000",Good
+The Exorcist,1973,Horror,8.0,81.0,"232,906,145",Good
+The Last Picture Show,1971,"Drama, Romance",8.0,93.0,"29,133,000",Good
+Fiddler on the Roof,1971,"Drama, Family, Musical",8.0,67.0,"80,500,000",Good
+Il conformista,1970,Drama,8.0,100.0,"541,940",Good
+Butch Cassidy and the Sundance Kid,1969,"Biography, Crime, Drama",8.0,66.0,"102,308,889",Good
+Planet of the Apes,1968,"Adventure, Sci-Fi",8.0,79.0,"33,395,426",Good
+The Graduate,1967,"Comedy, Drama, Romance",8.0,83.0,"104,945,305",Good
+The Sound of Music,1965,"Biography, Drama, Family",8.0,63.0,"163,214,286",Good
+Doctor Zhivago,1965,"Drama, Romance, War",8.0,69.0,"111,722,000",Good
+Per un pugno di dollari,1964,"Action, Drama, Western",8.0,65.0,"14,500,000",Good
+The Hustler,1961,"Drama, Sport",8.0,90.0,"8,284,000",Good
+La dolce vita,1960,"Comedy, Drama",8.0,95.0,"19,516,000",Good
+Rio Bravo,1959,"Action, Drama, Western",8.0,93.0,"12,535,000",Good
+Touch of Evil,1958,"Crime, Drama, Film-Noir",8.0,99.0,"2,237,659",Good
+Cat on a Hot Tin Roof,1958,Drama,8.0,84.0,"17,570,324",Good
+A Streetcar Named Desire,1951,Drama,8.0,97.0,"8,000,000",Good
+The Best Years of Our Lives,1946,"Drama, Romance, War",8.0,93.0,"23,650,000",Good
+The Grapes of Wrath,1940,"Drama, History",8.0,96.0,"55,000",Good
+The Wizard of Oz,1939,"Adventure, Family, Fantasy",8.0,92.0,"2,076,020",Good
+All Quiet on the Western Front,1930,"Drama, War",8.0,91.0,"3,270,000",Good
+Knives Out,2019,"Comedy, Crime, Drama",7.9,82.0,"165,359,751",Good
+Manbiki kazoku,2018,"Crime, Drama",7.9,93.0,"3,313,513",Good
+Marriage Story,2019,"Comedy, Drama, Romance",7.9,94.0,"2,000,000",Good
+Call Me by Your Name,2017,"Drama, Romance",7.9,93.0,"18,095,701",Good
+"I, Daniel Blake",2016,Drama,7.9,78.0,"258,168",Good
+Isle of Dogs,2018,"Animation, Adventure, Comedy",7.9,82.0,"32,015,231",Good
+Hunt for the Wilderpeople,2016,"Adventure, Comedy, Drama",7.9,81.0,"5,202,582",Good
+Captain Fantastic,2016,"Comedy, Drama",7.9,72.0,"5,875,006",Good
+Sing Street,2016,"Comedy, Drama, Music",7.9,79.0,"3,237,118",Good
+Thor: Ragnarok,2017,"Action, Adventure, Comedy",7.9,74.0,"315,058,289",Good
+Nightcrawler,2014,"Crime, Drama, Thriller",7.9,76.0,"32,381,218",Good
+Jojo Rabbit,2019,"Comedy, Drama, War",7.9,58.0,"349,555",Good
+Arrival,2016,"Drama, Sci-Fi",7.9,81.0,"100,546,139",Good
+Star Wars: Episode VII - The Force Awakens,2015,"Action, Adventure, Sci-Fi",7.9,80.0,"936,662,225",Good
+Before Midnight,2013,"Drama, Romance",7.9,94.0,"8,114,627",Good
+X-Men: Days of Future Past,2014,"Action, Adventure, Sci-Fi",7.9,75.0,"233,921,534",Good
+The Artist,2011,"Comedy, Drama, Romance",7.9,89.0,"44,671,682",Good
+Edge of Tomorrow,2014,"Action, Adventure, Sci-Fi",7.9,71.0,"100,206,256",Good
+Amour,2012,"Drama, Romance",7.9,94.0,"6,739,492",Good
+The Irishman,2019,"Biography, Crime, Drama",7.9,94.0,"7,000,000",Good
+Un prophète,2009,"Crime, Drama",7.9,90.0,"2,084,637",Good
+Moon,2009,"Drama, Mystery, Sci-Fi",7.9,67.0,"5,009,677",Good
+Låt den rätte komma in,2008,"Crime, Drama, Fantasy",7.9,82.0,"2,122,065",Good
+District 9,2009,"Action, Sci-Fi, Thriller",7.9,81.0,"115,646,235",Good
+The Wrestler,2008,"Drama, Sport",7.9,80.0,"26,236,603",Good
+Boyhood,2014,Drama,7.9,100.0,"25,379,975",Good
+Star Trek,2009,"Action, Adventure, Sci-Fi",7.9,82.0,"257,730,019",Good
+In Bruges,2008,"Comedy, Crime, Drama",7.9,67.0,"7,757,130",Good
+Letters from Iwo Jima,2006,"Action, Adventure, Drama",7.9,89.0,"13,756,082",Good
+The Fall,2006,"Adventure, Drama, Fantasy",7.9,64.0,"2,280,348",Good
+Life of Pi,2012,"Adventure, Drama, Fantasy",7.9,79.0,"124,987,023",Good
+Fantastic Mr. Fox,2009,"Animation, Adventure, Comedy",7.9,83.0,"21,002,919",Good
+Les choristes,2004,"Drama, Music",7.9,56.0,"3,635,164",Good
+Iron Man,2008,"Action, Adventure, Sci-Fi",7.9,79.0,"318,412,101",Good
+Shaun of the Dead,2004,"Comedy, Horror",7.9,76.0,"13,542,874",Good
+Mystic River,2003,"Crime, Drama, Mystery",7.9,84.0,"90,135,191",Good
+Harry Potter and the Prisoner of Azkaban,2004,"Adventure, Family, Fantasy",7.9,82.0,"249,358,727",Good
+Ying xiong,2002,"Action, Adventure, History",7.9,85.0,"53,710,019",Good
+Hable con ella,2002,"Drama, Mystery, Romance",7.9,86.0,"9,284,265",Good
+No Man's Land,2001,"Comedy, Drama, War",7.9,84.0,"1,059,830",Good
+Cowboy Bebop: Tengoku no tobira,2001,"Animation, Action, Crime",7.9,61.0,"1,000,045",Good
+The Bourne Identity,2002,"Action, Mystery, Thriller",7.9,68.0,"121,661,683",Good
+Nueve reinas,2000,"Crime, Drama, Thriller",7.9,80.0,"1,221,261",Good
+Children of Men,2006,"Adventure, Drama, Sci-Fi",7.9,84.0,"35,552,383",Good
+Almost Famous,2000,"Adventure, Comedy, Drama",7.9,90.0,"32,534,850",Good
+Mulholland Dr.,2001,"Drama, Mystery, Thriller",7.9,85.0,"7,220,243",Good
+Toy Story 2,1999,"Animation, Adventure, Comedy",7.9,88.0,"245,852,179",Good
+Boogie Nights,1997,Drama,7.9,85.0,"26,400,640",Good
+Once Were Warriors,1994,"Crime, Drama",7.9,77.0,"2,201,126",Good
+True Romance,1993,"Crime, Drama, Romance",7.9,59.0,"12,281,500",Good
+Trois couleurs: Bleu,1993,"Drama, Music, Mystery",7.9,85.0,"1,324,974",Good
+Carlito's Way,1993,"Crime, Drama, Thriller",7.9,65.0,"36,948,322",Good
+Edward Scissorhands,1990,"Drama, Fantasy, Romance",7.9,74.0,"56,362,352",Good
+My Left Foot: The Story of Christy Brown,1989,"Biography, Drama",7.9,97.0,"14,743,391",Good
+Crimes and Misdemeanors,1989,"Comedy, Drama",7.9,77.0,"18,254,702",Good
+The Untouchables,1987,"Crime, Drama, Thriller",7.9,79.0,"76,270,454",Good
+Hannah and Her Sisters,1986,"Comedy, Drama",7.9,90.0,"40,084,041",Good
+Brazil,1985,"Drama, Sci-Fi",7.9,84.0,"9,929,135",Good
+This Is Spinal Tap,1984,"Comedy, Music",7.9,92.0,"188,751",Good
+A Christmas Story,1983,"Comedy, Family",7.9,77.0,"20,605,209",Good
+The Blues Brothers,1980,"Action, Adventure, Comedy",7.9,60.0,"57,229,890",Good
+Manhattan,1979,"Comedy, Drama, Romance",7.9,83.0,"45,700,000",Good
+All That Jazz,1979,"Drama, Music, Musical",7.9,72.0,"37,823,676",Good
+Dawn of the Dead,1978,"Action, Adventure, Horror",7.9,71.0,"5,100,000",Good
+All the President's Men,1976,"Biography, Drama, History",7.9,84.0,"70,600,000",Good
+La montaña sagrada,1973,"Adventure, Drama, Fantasy",7.9,76.0,"61,001",Good
+Le charme discret de la bourgeoisie,1972,Comedy,7.9,93.0,"198,809",Good
+Patton,1970,"Biography, Drama, War",7.9,91.0,"61,700,000",Good
+The Wild Bunch,1969,"Action, Adventure, Western",7.9,97.0,"12,064,472",Good
+In the Heat of the Night,1967,"Crime, Drama, Mystery",7.9,75.0,"24,379,978",Good
+Charade,1963,"Comedy, Mystery, Romance",7.9,83.0,"13,474,588",Good
+Spartacus,1960,"Adventure, Biography, Drama",7.9,87.0,"30,000,000",Good
+High Noon,1952,"Drama, Thriller, Western",7.9,89.0,"9,450,000",Good
+Strangers on a Train,1951,"Crime, Film-Noir, Thriller",7.9,88.0,"7,630,000",Good
+Notorious,1946,"Drama, Film-Noir, Romance",7.9,100.0,"10,464,000",Good
+The Adventures of Robin Hood,1938,"Action, Adventure, Romance",7.9,97.0,"3,981,000",Good
+King Kong,1933,"Adventure, Horror, Sci-Fi",7.9,90.0,"10,000,000",Good
+Forushande,2016,Drama,7.8,85.0,"2,402,067",Good
+Dunkirk,2017,"Action, Drama, History",7.8,94.0,"188,373,161",Good
+Hidden Figures,2016,"Biography, Drama, History",7.8,74.0,"169,607,287",Good
+Paddington 2,2017,"Adventure, Comedy, Family",7.8,88.0,"40,442,052",Good
+Kubo and the Two Strings,2016,"Animation, Action, Adventure",7.8,84.0,"48,023,088",Good
+Manchester by the Sea,2016,Drama,7.8,96.0,"47,695,120",Good
+Under sandet,2015,"Drama, History, War",7.8,75.0,"435,266",Good
+Rogue One,2016,"Action, Adventure, Sci-Fi",7.8,65.0,"532,177,324",Good
+Captain America: Civil War,2016,"Action, Adventure, Sci-Fi",7.8,75.0,"408,084,349",Good
+The Hateful Eight,2015,"Crime, Drama, Mystery",7.8,68.0,"54,117,416",Good
+Little Women,2019,"Drama, Romance",7.8,91.0,"108,101,214",Good
+Loving Vincent,2017,"Animation, Biography, Crime",7.8,62.0,"6,735,118",Good
+Le passé,2013,"Drama, Mystery",7.8,85.0,"1,330,596",Good
+The Lunchbox,2013,"Drama, Romance",7.8,76.0,"4,231,500",Good
+Big Hero 6,2014,"Animation, Action, Adventure",7.8,74.0,"222,527,828",Good
+About Time,2013,"Comedy, Drama, Fantasy",7.8,55.0,"15,322,921",Good
+Kaze tachinu,2013,"Animation, Biography, Drama",7.8,83.0,"5,209,580",Good
+Toy Story 4,2019,"Animation, Adventure, Comedy",7.8,84.0,"434,038,008",Good
+La migliore offerta,2013,"Crime, Drama, Mystery",7.8,49.0,"85,433",Good
+Moonrise Kingdom,2012,"Comedy, Drama, Romance",7.8,84.0,"45,512,466",Good
+How to Train Your Dragon 2,2014,"Animation, Action, Adventure",7.8,76.0,"177,002,924",Good
+The Big Short,2015,"Biography, Comedy, Drama",7.8,81.0,"70,259,870",Good
+The Girl with the Dragon Tattoo,2011,"Crime, Drama, Mystery",7.8,71.0,"102,515,793",Good
+Captain Phillips,2013,"Adventure, Biography, Crime",7.8,82.0,"107,100,855",Good
+Straight Outta Compton,2015,"Biography, Drama, History",7.8,72.0,"161,197,785",Good
+Madeo,2009,"Crime, Drama, Mystery",7.8,79.0,"547,292",Good
+The Hobbit: The Desolation of Smaug,2013,"Adventure, Fantasy",7.8,66.0,"258,366,855",Good
+Das weiße Band - Eine deutsche Kindergeschichte,2009,"Drama, History, Mystery",7.8,82.0,"2,222,647",Good
+Män som hatar kvinnor,2009,"Crime, Drama, Mystery",7.8,76.0,"10,095,170",Good
+The Fighter,2010,"Biography, Drama, Sport",7.8,79.0,"93,617,009",Good
+Taken,2008,"Action, Thriller",7.8,51.0,"145,000,989",Good
+The Boy in the Striped Pyjamas,2008,"Drama, History, War",7.8,55.0,"9,030,581",Good
+Once,2007,"Drama, Music, Romance",7.8,88.0,"9,439,923",Good
+The Hobbit: An Unexpected Journey,2012,"Adventure, Fantasy",7.8,58.0,"303,003,568",Good
+Atonement,2007,"Drama, Mystery, Romance",7.8,85.0,"50,927,067",Good
+Drive,2011,"Crime, Drama",7.8,78.0,"35,061,555",Good
+American Gangster,2007,"Biography, Crime, Drama",7.8,76.0,"130,164,645",Good
+Avatar,2009,"Action, Adventure, Fantasy",7.8,83.0,"760,507,625",Good
+Mr. Nobody,2009,"Drama, Fantasy, Romance",7.8,63.0,"3,600",Good
+Apocalypto,2006,"Action, Adventure, Drama",7.8,68.0,"50,866,635",Good
+Little Miss Sunshine,2006,"Comedy, Drama",7.8,80.0,"59,891,098",Good
+Hot Fuzz,2007,"Action, Comedy, Mystery",7.8,81.0,"23,637,265",Good
+The Curious Case of Benjamin Button,2008,"Drama, Fantasy, Romance",7.8,70.0,"127,509,326",Good
+Veer-Zaara,2004,"Drama, Family, Musical",7.8,67.0,"2,921,738",Good
+Adams æbler,2005,"Comedy, Crime, Drama",7.8,51.0,"1,305",Good
+Pride & Prejudice,2005,"Drama, Romance",7.8,82.0,"38,405,088",Good
+The World's Fastest Indian,2005,"Biography, Drama, Sport",7.8,68.0,"5,128,124",Good
+Tôkyô goddofâzâzu,2003,"Animation, Adventure, Comedy",7.8,73.0,"128,985",Good
+Serenity,2005,"Action, Adventure, Sci-Fi",7.8,74.0,"25,514,517",Good
+Walk the Line,2005,"Biography, Drama, Music",7.8,72.0,"119,519,402",Good
+The Notebook,2004,"Drama, Romance",7.8,53.0,"81,001,787",Good
+Diarios de motocicleta,2004,"Adventure, Biography, Drama",7.8,75.0,"16,756,372",Good
+Lilja 4-ever,2002,"Crime, Drama",7.8,82.0,"181,655",Good
+Les triplettes de Belleville,2003,"Animation, Comedy, Drama",7.8,91.0,"7,002,255",Good
+The Count of Monte Cristo,2002,"Action, Adventure, Drama",7.8,61.0,"54,234,062",Good
+Waking Life,2001,"Animation, Drama, Fantasy",7.8,83.0,"2,892,011",Good
+Remember the Titans,2000,"Biography, Drama, Sport",7.8,48.0,"115,654,751",Good
+Wo hu cang long,2000,"Action, Adventure, Fantasy",7.8,94.0,"128,078,872",Good
+Todo sobre mi madre,1999,Drama,7.8,87.0,"8,264,530",Good
+Cast Away,2000,"Adventure, Drama, Romance",7.8,73.0,"233,632,142",Good
+The Boondock Saints,1999,"Action, Crime, Thriller",7.8,44.0,"25,812",Good
+The Insider,1999,"Biography, Drama, Thriller",7.8,84.0,"28,965,197",Good
+October Sky,1999,"Biography, Drama, Family",7.8,71.0,"32,481,825",Good
+Shrek,2001,"Animation, Adventure, Comedy",7.8,84.0,"267,665,011",Good
+Titanic,1997,"Drama, Romance",7.8,75.0,"659,325,379",Good
+Gattaca,1997,"Drama, Sci-Fi, Thriller",7.8,64.0,"12,339,633",Good
+The Game,1997,"Action, Drama, Mystery",7.8,61.0,"48,323,648",Good
+Breaking the Waves,1996,Drama,7.8,76.0,"4,040,691",Good
+Ed Wood,1994,"Biography, Comedy, Drama",7.8,70.0,"5,887,457",Good
+What's Eating Gilbert Grape,1993,Drama,7.8,73.0,"9,170,214",Good
+Tombstone,1993,"Action, Biography, Drama",7.8,50.0,"56,505,065",Good
+The Sandlot,1993,"Comedy, Drama, Family",7.8,55.0,"32,416,586",Good
+The Remains of the Day,1993,"Drama, Romance",7.8,84.0,"22,954,968",Good
+The Fugitive,1993,"Action, Crime, Drama",7.8,87.0,"183,875,760",Good
+A Bronx Tale,1993,"Crime, Drama, Romance",7.8,80.0,"17,266,971",Good
+Night on Earth,1991,"Comedy, Drama",7.8,68.0,"2,015,810",Good
+La double vie de Véronique,1991,"Drama, Fantasy, Music",7.8,86.0,"1,999,955",Good
+Boyz n the Hood,1991,"Crime, Drama",7.8,76.0,"57,504,069",Good
+Misery,1990,"Drama, Thriller",7.8,75.0,"61,276,872",Good
+Awakenings,1990,"Biography, Drama",7.8,74.0,"52,096,475",Good
+Glory,1989,"Biography, Drama, History",7.8,78.0,"26,830,000",Good
+Back to the Future Part II,1989,"Adventure, Comedy, Sci-Fi",7.8,57.0,"118,500,000",Good
+Mississippi Burning,1988,"Crime, Drama, History",7.8,65.0,"34,603,943",Good
+Predator,1987,"Action, Adventure, Sci-Fi",7.8,45.0,"59,735,548",Good
+Evil Dead II,1987,"Action, Comedy, Fantasy",7.8,72.0,"5,923,044",Good
+Ferris Bueller's Day Off,1986,Comedy,7.8,61.0,"70,136,369",Good
+Down by Law,1986,"Comedy, Crime, Drama",7.8,75.0,"1,436,000",Good
+The Goonies,1985,"Adventure, Comedy, Family",7.8,62.0,"61,503,218",Good
+The Color Purple,1985,Drama,7.8,78.0,"98,467,863",Good
+The Breakfast Club,1985,"Comedy, Drama",7.8,66.0,"45,875,171",Good
+The Killing Fields,1984,"Biography, Drama, History",7.8,76.0,"34,700,291",Good
+Ghostbusters,1984,"Action, Comedy, Fantasy",7.8,71.0,"238,632,124",Good
+The Right Stuff,1983,"Adventure, Biography, Drama",7.8,91.0,"21,500,000",Good
+The King of Comedy,1982,"Comedy, Crime, Drama",7.8,73.0,"2,500,000",Good
+E.T. the Extra-Terrestrial,1982,"Family, Sci-Fi",7.8,91.0,"435,110,554",Good
+Kramer vs. Kramer,1979,Drama,7.8,77.0,"106,260,000",Good
+The Outlaw Josey Wales,1976,Western,7.8,69.0,"31,800,000",Good
+The Conversation,1974,"Drama, Mystery, Thriller",7.8,85.0,"4,420,000",Good
+La planète sauvage,1973,"Animation, Sci-Fi",7.8,73.0,"193,817",Good
+The Day of the Jackal,1973,"Crime, Drama, Thriller",7.8,80.0,"16,056,255",Good
+Cabaret,1972,"Drama, Music, Musical",7.8,80.0,"42,765,000",Good
+Willy Wonka & the Chocolate Factory,1971,"Family, Fantasy, Musical",7.8,67.0,"4,000,000",Good
+Midnight Cowboy,1969,Drama,7.8,79.0,"44,785,053",Good
+My Fair Lady,1964,"Drama, Family, Musical",7.8,95.0,"72,000,000",Good
+Mary Poppins,1964,"Comedy, Family, Fantasy",7.8,88.0,"102,272,727",Good
+The Longest Day,1962,"Action, Drama, History",7.8,75.0,"39,100,000",Good
+The Innocents,1961,Horror,7.8,88.0,"2,616,000",Good
+Deadpool 2,2018,"Action, Adventure, Comedy",7.7,66.0,"324,591,735",Good
+Wind River,2017,"Crime, Drama, Mystery",7.7,73.0,"33,800,859",Good
+Get Out,2017,"Horror, Mystery, Thriller",7.7,85.0,"176,040,665",Good
+Mission: Impossible - Fallout,2018,"Action, Adventure, Thriller",7.7,86.0,"220,159,104",Good
+En man som heter Ove,2015,"Comedy, Drama, Romance",7.7,70.0,"3,358,518",Good
+What We Do in the Shadows,2014,"Comedy, Horror",7.7,76.0,"3,333,000",Good
+Omoide no Mânî,2014,"Animation, Drama, Family",7.7,72.0,"765,127",Good
+The Theory of Everything,2014,"Biography, Drama, Romance",7.7,72.0,"35,893,537",Good
+Kingsman: The Secret Service,2014,"Action, Adventure, Comedy",7.7,60.0,"128,261,724",Good
+The Fault in Our Stars,2014,"Drama, Romance",7.7,69.0,"124,872,350",Good
+Me and Earl and the Dying Girl,2015,"Comedy, Drama",7.7,74.0,"6,743,776",Good
+Birdman or (The Unexpected Virtue of Ignorance),2014,"Comedy, Drama",7.7,87.0,"42,340,598",Good
+La vie d'Adèle,2013,"Drama, Romance",7.7,89.0,"2,199,675",Good
+Kai po che!,2013,"Drama, Sport",7.7,40.0,"1,122,527",Good
+Captain America: The Winter Soldier,2014,"Action, Adventure, Sci-Fi",7.7,70.0,"259,766,572",Good
+Nebraska,2013,"Adventure, Comedy, Drama",7.7,87.0,"17,654,912",Good
+Wreck-It Ralph,2012,"Animation, Adventure, Comedy",7.7,72.0,"189,422,889",Good
+Le Petit Prince,2015,"Animation, Adventure, Drama",7.7,70.0,"1,339,152",Good
+Midnight in Paris,2011,"Comedy, Fantasy, Romance",7.7,81.0,"56,816,662",Good
+The Lego Movie,2014,"Animation, Action, Adventure",7.7,83.0,"257,760,692",Good
+Gravity,2013,"Drama, Sci-Fi, Thriller",7.7,96.0,"274,092,705",Good
+Star Trek Into Darkness,2013,"Action, Adventure, Sci-Fi",7.7,72.0,"228,778,661",Good
+The Social Network,2010,"Biography, Drama",7.7,95.0,"96,962,694",Good
+X: First Class,2011,"Action, Adventure, Sci-Fi",7.7,65.0,"146,408,305",Good
+The Hangover,2009,Comedy,7.7,73.0,"277,322,503",Good
+Skyfall,2012,"Action, Adventure, Thriller",7.7,81.0,"304,360,277",Good
+Silver Linings Playbook,2012,"Comedy, Drama, Romance",7.7,81.0,"132,092,958",Good
+Argo,2012,"Biography, Drama, Thriller",7.7,86.0,"136,025,503",Good
+(500) Days of Summer,2009,"Comedy, Drama, Romance",7.7,76.0,"32,391,374",Good
+Harry Potter and the Deathly Hallows: Part 1,2010,"Adventure, Family, Fantasy",7.7,65.0,"295,983,305",Good
+Gake no ue no Ponyo,2008,"Animation, Adventure, Comedy",7.7,86.0,"15,090,400",Good
+Frost/Nixon,2008,"Biography, Drama, History",7.7,80.0,"18,593,156",Good
+Papurika,2006,"Animation, Drama, Fantasy",7.7,81.0,"881,302",Good
+Changeling,2008,"Biography, Crime, Drama",7.7,63.0,"35,739,802",Good
+Flipped,2010,"Comedy, Drama, Romance",7.7,45.0,"1,752,214",Good
+Ex Machina,2014,"Drama, Sci-Fi, Thriller",7.7,78.0,"25,442,958",Good
+Efter brylluppet,2006,Drama,7.7,78.0,"412,544",Good
+The Last King of Scotland,2006,"Biography, Drama, History",7.7,74.0,"17,605,861",Good
+Zodiac,2007,"Crime, Drama, Mystery",7.7,78.0,"33,080,084",Good
+Lucky Number Slevin,2006,"Action, Crime, Drama",7.7,53.0,"22,494,487",Good
+Joyeux Noël,2005,"Drama, History, Music",7.7,70.0,"1,054,361",Good
+Control,2007,"Biography, Drama, Music",7.7,78.0,"871,577",Good
+Tangled,2010,"Animation, Adventure, Comedy",7.7,71.0,"200,821,936",Good
+Zwartboek,2006,"Drama, Thriller, War",7.7,71.0,"4,398,392",Good
+Brokeback Mountain,2005,"Drama, Romance",7.7,87.0,"83,043,761",Good
+3:10 to Yuma,2007,"Action, Crime, Drama",7.7,76.0,"53,606,916",Good
+Crash,2004,"Crime, Drama, Thriller",7.7,66.0,"54,580,300",Good
+Kung fu,2004,"Action, Comedy, Fantasy",7.7,78.0,"17,108,591",Good
+The Bourne Supremacy,2004,"Action, Mystery, Thriller",7.7,73.0,"176,241,941",Good
+The Machinist,2004,"Drama, Thriller",7.7,61.0,"1,082,715",Good
+Ray,2004,"Biography, Drama, Music",7.7,73.0,"75,331,600",Good
+Lost in Translation,2003,"Comedy, Drama",7.7,89.0,"44,585,453",Good
+Harry Potter and the Goblet of Fire,2005,"Adventure, Family, Fantasy",7.7,81.0,"290,013,036",Good
+Man on Fire,2004,"Action, Crime, Drama",7.7,47.0,"77,911,774",Good
+Coraline,2009,"Animation, Drama, Family",7.7,80.0,"75,286,229",Good
+The Last Samurai,2003,"Action, Drama",7.7,55.0,"111,110,575",Good
+The Magdalene Sisters,2002,Drama,7.7,83.0,"4,890,878",Good
+Good Bye Lenin!,2003,"Comedy, Drama, Romance",7.7,68.0,"4,064,200",Good
+In America,2002,Drama,7.7,76.0,"15,539,266",Good
+I Am Sam,2001,Drama,7.7,28.0,"40,311,852",Good
+Adaptation.,2002,"Comedy, Drama",7.7,83.0,"22,245,861",Good
+Black Hawk Down,2001,"Drama, History, War",7.7,74.0,"108,638,745",Good
+Road to Perdition,2002,"Crime, Drama, Thriller",7.7,72.0,"104,454,762",Good
+Das Experiment,2001,"Drama, Thriller",7.7,60.0,"141,072",Good
+Billy Elliot,2000,"Drama, Music",7.7,74.0,"21,995,263",Good
+Hedwig and the Angry Inch,2001,"Comedy, Drama, Music",7.7,85.0,"3,029,081",Good
+Ocean's Eleven,2001,"Crime, Thriller",7.7,74.0,"183,417,150",Good
+Vampire Hunter D: Bloodlust,2000,"Animation, Action, Fantasy",7.7,62.0,"151,086",Good
+"O Brother, Where Art Thou?",2000,"Adventure, Comedy, Crime",7.7,69.0,"45,512,588",Good
+"South Park: Bigger, Longer & Uncut",1999,"Animation, Comedy, Fantasy",7.7,73.0,"52,037,603",Good
+Office Space,1999,Comedy,7.7,68.0,"10,824,921",Good
+Training Day,2001,"Crime, Drama, Thriller",7.7,69.0,"76,631,907",Good
+Rushmore,1998,"Comedy, Drama, Romance",7.7,86.0,"17,105,219",Good
+Being John Malkovich,1999,"Comedy, Drama, Fantasy",7.7,90.0,"22,858,926",Good
+As Good as It Gets,1997,"Comedy, Drama, Romance",7.7,67.0,"148,478,011",Good
+The Fifth Element,1997,"Action, Adventure, Sci-Fi",7.7,52.0,"63,540,020",Good
+Le dîner de cons,1998,Comedy,7.7,73.0,"4,065,116",Good
+Donnie Brasco,1997,"Biography, Crime, Drama",7.7,76.0,"41,909,762",Good
+Shine,1996,"Biography, Drama, Music",7.7,87.0,"35,811,509",Good
+Primal Fear,1996,"Crime, Drama, Mystery",7.7,47.0,"56,116,183",Good
+A Little Princess,1995,"Drama, Family, Fantasy",7.7,83.0,"10,019,307",Good
+Il postino,1994,"Biography, Comedy, Drama",7.7,81.0,"21,848,932",Good
+Clerks,1994,Comedy,7.7,70.0,"3,151,130",Good
+Short Cuts,1993,"Comedy, Drama",7.7,79.0,"6,110,979",Good
+Philadelphia,1993,Drama,7.7,66.0,"77,324,422",Good
+The Muppet Christmas Carol,1992,"Comedy, Drama, Family",7.7,64.0,"27,281,507",Good
+Malcolm X,1992,"Biography, Drama, History",7.7,73.0,"48,169,908",Good
+The Last of the Mohicans,1992,"Action, Adventure, Drama",7.7,76.0,"75,505,856",Good
+Glengarry Glen Ross,1992,"Crime, Drama, Mystery",7.7,82.0,"10,725,228",Good
+A Few Good Men,1992,"Drama, Thriller",7.7,62.0,"141,340,178",Good
+Fried Green Tomatoes,1991,Drama,7.7,64.0,"82,418,501",Good
+Barton Fink,1991,"Comedy, Drama, Thriller",7.7,69.0,"6,153,939",Good
+Miller's Crossing,1990,"Crime, Drama, Thriller",7.7,66.0,"5,080,409",Good
+Who Framed Roger Rabbit,1988,"Animation, Adventure, Comedy",7.7,83.0,"156,452,370",Good
+Withnail & I,1987,"Comedy, Drama",7.7,84.0,"1,544,889",Good
+The Last Emperor,1987,"Biography, Drama, History",7.7,76.0,"43,984,230",Good
+Empire of the Sun,1987,"Action, Drama, History",7.7,62.0,"22,238,696",Good
+Der Name der Rose,1986,"Crime, Drama, Mystery",7.7,54.0,"7,153,487",Good
+Blue Velvet,1986,"Drama, Mystery, Thriller",7.7,76.0,"8,551,228",Good
+The Purple Rose of Cairo,1985,"Comedy, Fantasy, Romance",7.7,75.0,"10,631,333",Good
+After Hours,1985,"Comedy, Crime, Drama",7.7,90.0,"10,600,000",Good
+The Verdict,1982,Drama,7.7,77.0,"54,000,000",Good
+Star Trek II: The Wrath of Khan,1982,"Action, Adventure, Sci-Fi",7.7,67.0,"78,912,963",Good
+First Blood,1982,"Action, Adventure",7.7,61.0,"47,212,904",Good
+Ordinary People,1980,Drama,7.7,86.0,"54,800,000",Good
+Airplane!,1980,Comedy,7.7,78.0,"83,400,000",Good
+Halloween,1978,"Horror, Thriller",7.7,87.0,"47,000,000",Good
+Le locataire,1976,"Drama, Thriller",7.7,71.0,"1,924,733",Good
+Blazing Saddles,1974,"Comedy, Western",7.7,73.0,"119,500,000",Good
+Serpico,1973,"Biography, Crime, Drama",7.7,87.0,"29,800,000",Good
+Enter the Dragon,1973,"Action, Crime, Drama",7.7,83.0,"25,000,000",Good
+Deliverance,1972,"Adventure, Drama, Thriller",7.7,80.0,"7,056,013",Good
+The French Connection,1971,"Action, Crime, Drama",7.7,94.0,"15,630,710",Good
+Dirty Harry,1971,"Action, Crime, Thriller",7.7,90.0,"35,900,000",Good
+The Odd Couple,1968,Comedy,7.7,86.0,"44,527,234",Good
+A Man for All Seasons,1966,"Biography, Drama, History",7.7,72.0,"28,350,000",Good
+Goldfinger,1964,"Action, Adventure, Thriller",7.7,87.0,"51,081,062",Good
+The Birds,1963,"Drama, Horror, Mystery",7.7,90.0,"11,403,529",Good
+The Magnificent Seven,1960,"Action, Adventure, Western",7.7,74.0,"4,905,000",Good
+The African Queen,1951,"Adventure, Drama, Romance",7.7,91.0,"536,118",Good
+Fantasia,1940,"Animation, Family, Fantasy",7.7,96.0,"76,408,097",Good
+Searching,2018,"Drama, Mystery, Thriller",7.6,71.0,"26,020,957",Good
+Once Upon a Time... in Hollywood,2019,"Comedy, Drama",7.6,83.0,"142,502,728",Good
+Nelyubov,2017,Drama,7.6,86.0,"566,356",Good
+The Florida Project,2017,Drama,7.6,92.0,"5,904,366",Good
+Gifted,2017,Drama,7.6,60.0,"24,801,212",Good
+The Peanut Butter Falcon,2019,"Adventure, Comedy, Drama",7.6,70.0,"13,122,642",Good
+Mustang,2015,Drama,7.6,83.0,"845,464",Good
+Guardians of the Galaxy Vol. 2,2017,"Action, Adventure, Comedy",7.6,67.0,"389,813,101",Good
+Baby Driver,2017,"Action, Crime, Drama",7.6,86.0,"107,825,862",Good
+Only the Brave,2017,"Action, Biography, Drama",7.6,72.0,"18,340,051",Good
+Bridge of Spies,2015,"Drama, History, Thriller",7.6,81.0,"72,313,754",Good
+Incredibles 2,2018,"Animation, Action, Adventure",7.6,80.0,"608,581,744",Good
+Moana,2016,"Animation, Adventure, Comedy",7.6,81.0,"248,757,044",Good
+Sicario,2015,"Action, Crime, Drama",7.6,82.0,"46,889,293",Good
+Creed,2015,"Drama, Sport",7.6,82.0,"109,767,581",Good
+Leviafan,2014,"Crime, Drama",7.6,92.0,"1,092,800",Good
+Hell or High Water,2016,"Action, Crime, Drama",7.6,88.0,"26,862,450",Good
+Philomena,2013,"Biography, Comedy, Drama",7.6,77.0,"37,707,719",Good
+Dawn of the Planet of the Apes,2014,"Action, Adventure, Drama",7.6,79.0,"208,545,589",Good
+Serbuan maut,2011,"Action, Thriller",7.6,73.0,"4,105,123",Good
+End of Watch,2012,"Action, Crime, Drama",7.6,68.0,"41,003,371",Good
+Kari-gurashi no Arietti,2010,"Animation, Adventure, Family",7.6,80.0,"19,202,743",Good
+A Star Is Born,2018,"Drama, Music, Romance",7.6,88.0,"215,288,866",Good
+True Grit,2010,"Drama, Western",7.6,80.0,"171,243,005",Good
+Hævnen,2010,"Drama, Romance",7.6,65.0,"1,008,098",Good
+Despicable Me,2010,"Animation, Comedy, Crime",7.6,72.0,"251,513,985",Good
+50/50,2011,"Comedy, Drama, Romance",7.6,72.0,"35,014,192",Good
+Kick-Ass,2010,"Action, Comedy, Crime",7.6,66.0,"48,071,303",Good
+Moneyball,2011,"Biography, Drama, Sport",7.6,87.0,"75,605,492",Good
+La piel que habito,2011,"Drama, Horror, Thriller",7.6,70.0,"3,185,812",Good
+Zombieland,2009,"Adventure, Comedy, Fantasy",7.6,73.0,"75,590,286",Good
+Sherlock Holmes,2009,"Action, Adventure, Mystery",7.6,57.0,"209,028,679",Good
+The Blind Side,2009,"Biography, Drama, Sport",7.6,53.0,"255,959,475",Good
+The Visitor,2007,Drama,7.6,79.0,"9,422,422",Good
+Seven Pounds,2008,Drama,7.6,36.0,"69,951,824",Good
+Eastern Promises,2007,"Action, Crime, Drama",7.6,82.0,"17,114,882",Good
+Stardust,2007,"Adventure, Family, Fantasy",7.6,66.0,"38,634,938",Good
+Inside Man,2006,"Crime, Drama, Mystery",7.6,76.0,"88,513,495",Good
+Gone Baby Gone,2007,"Crime, Drama, Mystery",7.6,72.0,"20,300,218",Good
+La Vie En Rose,2007,"Biography, Drama, Music",7.6,66.0,"10,301,706",Good
+Huo Yuan Jia,2006,"Action, Biography, Drama",7.6,70.0,"24,633,730",Good
+The Illusionist,2006,"Drama, Fantasy, Mystery",7.6,68.0,"39,868,642",Good
+Harry Potter and the Half-Blood Prince,2009,"Action, Adventure, Family",7.6,78.0,"301,959,197",Good
+300,2006,"Action, Drama",7.6,52.0,"210,614,939",Good
+Match Point,2005,"Drama, Romance, Thriller",7.6,72.0,"23,089,926",Good
+Watchmen,2009,"Action, Drama, Mystery",7.6,56.0,"107,509,799",Good
+Lord of War,2005,"Action, Crime, Drama",7.6,62.0,"24,149,632",Good
+Saw,2004,"Horror, Mystery, Thriller",7.6,46.0,"56,000,369",Good
+"Synecdoche, New York",2008,Drama,7.6,67.0,"3,081,925",Good
+Mysterious Skin,2004,Drama,7.6,73.0,"697,181",Good
+Jeux d'enfants,2003,"Comedy, Drama, Romance",7.6,45.0,"548,707",Good
+Un long dimanche de fiançailles,2004,"Drama, Mystery, Romance",7.6,76.0,"6,167,817",Good
+The Station Agent,2003,"Comedy, Drama",7.6,81.0,"5,739,376",Good
+21 Grams,2003,"Crime, Drama, Thriller",7.6,70.0,"16,290,476",Good
+Boksuneun naui geot,2002,"Crime, Drama, Thriller",7.6,56.0,"45,289",Good
+Finding Neverland,2004,"Biography, Drama, Family",7.6,67.0,"51,680,613",Good
+25th Hour,2002,Drama,7.6,68.0,"13,060,843",Good
+The Butterfly Effect,2004,"Drama, Sci-Fi, Thriller",7.6,30.0,"57,938,693",Good
+28 Days Later...,2002,"Drama, Horror, Sci-Fi",7.6,73.0,"45,064,915",Good
+The Royal Tenenbaums,2001,"Comedy, Drama",7.6,76.0,"52,364,010",Good
+Y tu mamá también,2001,Drama,7.6,88.0,"13,622,333",Good
+Harry Potter and the Sorcerer's Stone,2001,"Adventure, Family, Fantasy",7.6,64.0,"317,575,550",Good
+The Others,2001,"Horror, Mystery, Thriller",7.6,74.0,"96,522,687",Good
+Blow,2001,"Biography, Crime, Drama",7.6,52.0,"52,990,775",Good
+Enemy at the Gates,2001,"Drama, History, War",7.6,53.0,"51,401,758",Good
+Minority Report,2002,"Action, Crime, Mystery",7.6,80.0,"132,072,926",Good
+The Hurricane,1999,"Biography, Drama, Sport",7.6,74.0,"50,668,906",Good
+American Psycho,2000,"Comedy, Crime, Drama",7.6,64.0,"15,070,285",Good
+Lola rennt,1998,"Crime, Drama, Thriller",7.6,77.0,"7,267,585",Good
+The Thin Red Line,1998,"Drama, War",7.6,78.0,"36,400,491",Good
+Mulan,1998,"Animation, Adventure, Family",7.6,71.0,"120,620,254",Good
+Fear and Loathing in Las Vegas,1998,"Adventure, Comedy, Drama",7.6,41.0,"10,680,275",Good
+Dark City,1998,"Mystery, Sci-Fi, Thriller",7.6,66.0,"14,378,331",Good
+Sleepers,1996,"Crime, Drama, Thriller",7.6,49.0,"49,100,000",Good
+Lost Highway,1997,"Mystery, Thriller",7.6,52.0,"3,796,699",Good
+Sense and Sensibility,1995,"Drama, Romance",7.6,84.0,"43,182,776",Good
+Die Hard: With a Vengeance,1995,"Action, Adventure, Thriller",7.6,58.0,"100,012,499",Good
+Dead Man,1995,"Adventure, Drama, Fantasy",7.6,62.0,"1,037,847",Good
+The Bridges of Madison County,1995,"Drama, Romance",7.6,69.0,"71,516,617",Good
+Apollo 13,PG,"Adventure, Drama, History",7.6,77.0,"173,837,933",Good
+Trois couleurs: Blanc,1994,"Comedy, Drama, Romance",7.6,88.0,"1,464,625",Good
+Falling Down,1993,"Action, Crime, Drama",7.6,56.0,"40,903,593",Good
+Dazed and Confused,1993,Comedy,7.6,78.0,"7,993,039",Good
+My Cousin Vinny,1992,"Comedy, Crime",7.6,68.0,"52,929,168",Good
+Omohide poro poro,1991,"Animation, Drama, Romance",7.6,90.0,"453,243",Good
+Delicatessen,1991,"Comedy, Crime",7.6,66.0,"1,794,187",Good
+Home Alone,1990,"Comedy, Family",7.6,63.0,"285,761,243",Good
+The Godfather: Part III,1990,"Crime, Drama",7.6,60.0,"66,666,062",Good
+When Harry Met Sally...,1989,"Comedy, Drama, Romance",7.6,76.0,"92,823,600",Good
+The Little Mermaid,1989,"Animation, Family, Fantasy",7.6,88.0,"111,543,479",Good
+The Naked Gun: From the Files of Police Squad!,1988,"Comedy, Crime",7.6,76.0,"78,756,177",Good
+"Planes, Trains & Automobiles",1987,"Comedy, Drama",7.6,72.0,"49,530,280",Good
+Lethal Weapon,1987,"Action, Crime, Thriller",7.6,68.0,"65,207,127",Good
+Blood Simple,1984,"Crime, Drama, Thriller",7.6,82.0,"2,150,000",Good
+On Golden Pond,1981,Drama,7.6,68.0,"119,285,432",Good
+Mad Max 2,1981,"Action, Adventure, Sci-Fi",7.6,77.0,"12,465,371",Good
+The Warriors,1979,"Action, Crime, Thriller",7.6,65.0,"22,490,039",Good
+The Muppet Movie,1979,"Adventure, Comedy, Family",7.6,74.0,"76,657,000",Good
+Escape from Alcatraz,1979,"Action, Biography, Crime",7.6,76.0,"43,000,000",Good
+Midnight Express,1978,"Biography, Crime, Drama",7.6,59.0,"35,000,000",Good
+Close Encounters of the Third Kind,1977,"Drama, Sci-Fi",7.6,90.0,"132,088,635",Good
+The Long Goodbye,1973,"Comedy, Crime, Drama",7.6,87.0,"959,000",Good
+Giù la testa,1971,"Drama, War, Western",7.6,77.0,"696,690",Good
+Kelly's Heroes,1970,"Adventure, Comedy, War",7.6,50.0,"1,378,435",Good
+The Jungle Book,1967,"Animation, Adventure, Family",7.6,65.0,"141,843,612",Good
+A Hard Day's Night,1964,"Comedy, Music, Musical",7.6,96.0,"13,780,024",Good
+From Here to Eternity,1953,"Drama, Romance, War",7.6,85.0,"30,500,000",Good

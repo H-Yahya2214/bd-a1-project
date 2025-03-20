@@ -1,0 +1,3 @@
+Cluster 0: 360 movies
+Cluster 2: 272 movies
+Cluster 1: 82 movies
