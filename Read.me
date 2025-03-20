@@ -19,7 +19,8 @@ nano
 nano 
 nano 
 nano 
- 
+python3 load.py /home/doc-bd-a1/imdb_top_1000.csv
+
 exit 
 
 New-Item -ItemType File -Path final.sh
@@ -34,4 +35,16 @@ chmod +x final.sh
 ./final.sh
 ls service-result/
 
+
+Bonus 
+docker login 
+docker tag bd-a1-image habubaragaey/bd-a1-image:latest
+docker push habubaragaey/bd-a1-image:latest
+The push refers to repository [docker.io/habubaragaey/bd-a1-image]
+5f70bf18a086: Mounted from asami76/hadoop3
+d7d0cf1a8b0d: Pushed
+4e736a47998e: Pushed
+16a9642d8166: Pushed
+4b7c01ed0534: Mounted from library/ubuntu
+latest: digest: sha256:9870a56999b51d88b45d3932e1589920803e654336a8335fdd78fa98446dd63b size: 1365
 

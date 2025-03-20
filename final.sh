@@ -2,7 +2,6 @@
 
 LOCAL_DIR="./service-result"
 
-
 mkdir -p "$LOCAL_DIR"
 
 docker cp bd-a1-container:/home/doc-bd-a1/res_dpre.csv "$LOCAL_DIR/"
