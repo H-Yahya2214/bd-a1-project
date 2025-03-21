@@ -22,16 +22,27 @@
 - A dataset (CSV format) to process.
 ## ***Directory Structure***
 bd-a1/
+
 │── Dockerfile
+
 │── imdb_top_1000.csv  
+
 │── load.py
+
 │── dpre.py
+
 │── eda.py
+
 │── vis.py
+
 │── model.py
+
 │── final.sh
+
 │── service-result/  
+
 │── README.md
+
 ## ***Execution Steps***
 1. Build the Docker Image
 Run the following command in the project directory to build the Docker image:
@@ -103,7 +114,6 @@ Clustering Results (from k.txt)
 •	Cluster 1: 82 movies
 •	Cluster 2: 272 movies
 
-## ***Our Repository & Container***
   
 ## ***Contributors***
 This project was completed as part of CSCI461 - Introduction to Big Data at Nile University, Spring 2025.
