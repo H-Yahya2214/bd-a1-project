@@ -10,12 +10,19 @@
 6. Copying results from the container to the local machine.
 ## ___Features___
 ✅ Containerized environment: Runs in an isolated Docker container.
+
 ✅ Automated pipeline: Data flows from step to step without manual intervention.
+
 ✅ Data processing & transformation: Cleaning, reducing, and structuring data for analysis.
+
 ✅ Exploratory Data Analysis (EDA): Generating key insights from the dataset.
+
 ✅ Visual representation: Creating a visualization (vis.png).
+
 ✅ Machine learning with K-Means: Applying clustering with k=3.
+
 ✅ Automatic results extraction: Copies output files from the container to the host machine.
+
 ## ***Prerequisites***
 - Docker installed and running.
 - Python 3.x installed inside the Docker container.
@@ -107,11 +114,17 @@ git push -u origin main
   - k.txt – Number of records in each of the K-Means clusters (k=3).
 ## ***EDA Insights (from eda-in-1.txt, eda-in-2.txt, eda-in-3.txt)***
 •	Most common genre: Drama
+
 •	Average IMDb rating: 7.94
+
 •	Highest-grossing movie: Star Wars: Episode VII - The Force Awakens
+
 Clustering Results (from k.txt)
+
 •	Cluster 0: 360 movies
+
 •	Cluster 1: 82 movies
+
 •	Cluster 2: 272 movies
 
   
@@ -119,10 +132,10 @@ Clustering Results (from k.txt)
 This project was completed as part of CSCI461 - Introduction to Big Data at Nile University, Spring 2025.
 
 ## ***Team Members:***
-- [Sara Ahmed Talaat]
-- [Habiba Yahya Ragaey]
-- [Haneen Aly Abdelkader]
-- [Engy Ahmed Saleh]
-- [Ameena Yehia]
+- Sara Ahmed Talaat
+- Habiba Yahya Ragaey
+- Haneen Aly Abdelkader
+- Engy Ahmed Saleh
+- Ameena Yehia
 ## ***License***
 This project is for academic purposes only and follows Nile University’s guidelines on academic integrity.
