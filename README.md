@@ -1,13 +1,14 @@
-#**Big Data Assignment 1 - Data Processing Pipeline**
-##***Project Overview***
-###This project implements a data processing pipeline using Docker. The pipeline runs inside a container based on an Ubuntu image, where a dataset is processed through multiple steps:
+# **Big Data Assignment 1 - Data Processing Pipeline**
+
+## ***Project Overview***
+### This project implements a data processing pipeline using Docker. The pipeline runs inside a container based on an Ubuntu image, where a dataset is processed through multiple steps:
 1. Loading the dataset.
 2. Preprocessing: Data cleaning, transformation, reduction, and discretization.
 3. Exploratory Data Analysis (EDA): Extracting insights.
 4. Visualization: Creating a graphical representation.
 5. Clustering using K-Means (k=3).
 6. Copying results from the container to the local machine.
-##___Features___
+## ___Features___
 ✅ Containerized environment: Runs in an isolated Docker container.
 ✅ Automated pipeline: Data flows from step to step without manual intervention.
 ✅ Data processing & transformation: Cleaning, reducing, and structuring data for analysis.
@@ -15,11 +16,11 @@
 ✅ Visual representation: Creating a visualization (vis.png).
 ✅ Machine learning with K-Means: Applying clustering with k=3.
 ✅ Automatic results extraction: Copies output files from the container to the host machine.
-##***Prerequisites***
+## ***Prerequisites***
 - Docker installed and running.
 - Python 3.x installed inside the Docker container.
 - A dataset (CSV format) to process.
-##***Directory Structure***
+## ***Directory Structure***
 bd-a1/
 │── Dockerfile
 │── imdb_top_1000.csv  
@@ -31,7 +32,7 @@ bd-a1/
 │── final.sh
 │── service-result/  
 │── README.md
-##***Execution Steps***
+## ***Execution Steps***
 1. Build the Docker Image
 Run the following command in the project directory to build the Docker image:
 ```bash
@@ -79,7 +80,7 @@ git commit -m "Initial commit"
 git branch -M main
 git push -u origin main
 ```
-##***Expected Output Files***
+## ***Expected Output Files***
 
 - Preprocessed Data:
   - res_dpre.csv – Processed dataset after cleaning and transformation.
@@ -93,7 +94,7 @@ git push -u origin main
 
 - Clustering Output:
   - k.txt – Number of records in each of the K-Means clusters (k=3).
-##***EDA Insights (from eda-in-1.txt, eda-in-2.txt, eda-in-3.txt)***
+## ***EDA Insights (from eda-in-1.txt, eda-in-2.txt, eda-in-3.txt)***
 •	Most common genre: Drama
 •	Average IMDb rating: 7.94
 •	Highest-grossing movie: Star Wars: Episode VII - The Force Awakens
@@ -102,16 +103,16 @@ Clustering Results (from k.txt)
 •	Cluster 1: 82 movies
 •	Cluster 2: 272 movies
 
-##***Our Repository & Container***
+## ***Our Repository & Container***
   
-##***Contributors***
+## ***Contributors***
 This project was completed as part of CSCI461 - Introduction to Big Data at Nile University, Spring 2025.
 
-##***Team Members:***
+## ***Team Members:***
 - [Sara Ahmed Talaat]
 - [Habiba Yahya Ragaey]
 - [Haneen Aly Abdelkader]
 - [Engy Ahmed Saleh]
 - [Ameena Yehia]
-##***License***
+## ***License***
 This project is for academic purposes only and follows Nile University’s guidelines on academic integrity.
